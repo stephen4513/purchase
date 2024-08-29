@@ -30,7 +30,7 @@ export default function Purchase() {
   return (
     <div>
       <button onClick={handleClick} disabled={loading}>
-        {loading ? 'Loading...' : 'Buy $10 Product'}
+        {loading ? 'Loading...' : 'Buy $740 Product'}
       </button>
     </div>
   );
