@@ -33,7 +33,7 @@ export default function Purchase() {
       <div style={styles.content}>
         <h1 style={styles.title}>Improve Your Career with a Professional Resume Template</h1>
         <p style={styles.description}>
-          This professionally designed resume template will help you stand out and improve your chances of landing your dream job. Purchase now for just $1.
+          This professionally designed resume template will help you stand out and improve your chances of landing your dream job. Purchase now for just $750.
         </p>
         <button 
           onClick={handleClick} 
